@@ -1,0 +1,7 @@
+feat: Add Android SDK configuration and Odoo integration with auth flow
+
+- Configure Android SDK path in local.properties
+- Implement Odoo authentication service and login flow
+- Set up navigation stack for core business modules
+- Add environment configuration handling
+- Include proper gitignore for sensitive files
